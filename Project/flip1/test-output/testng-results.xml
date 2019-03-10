@@ -2,16 +2,30 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
+  <suite name="Default suite" duration-ms="104" started-at="2019-03-10T06:46:23Z" finished-at="2019-03-10T06:46:23Z">
+=======
   <suite name="Default suite" duration-ms="79" started-at="2019-03-05T16:55:24Z" finished-at="2019-03-05T16:55:24Z">
+>>>>>>> branch 'myBracnh1' of https://github.com/muthuin2020/myEncoreLearning.git
     <groups>
     </groups>
+<<<<<<< HEAD
+    <test name="Default test" duration-ms="104" started-at="2019-03-10T06:46:23Z" finished-at="2019-03-10T06:46:23Z">
+      <class name="CollectionsFrameworkPractice.myGitBranch2">
+        <test-method status="PASS" signature="f()[pri:0, instance:CollectionsFrameworkPractice.myGitBranch2@6767c1fc]" name="f" duration-ms="13" started-at="2019-03-10T06:46:23Z" finished-at="2019-03-10T06:46:23Z">
+=======
     <test name="Default test" duration-ms="79" started-at="2019-03-05T16:55:24Z" finished-at="2019-03-05T16:55:24Z">
       <class name="CollectionsFrameworkPractice.myGitBranch">
         <test-method status="PASS" signature="f()[pri:0, instance:CollectionsFrameworkPractice.myGitBranch@6767c1fc]" name="f" duration-ms="13" started-at="2019-03-05T16:55:24Z" finished-at="2019-03-05T16:55:24Z">
+>>>>>>> branch 'myBracnh1' of https://github.com/muthuin2020/myEncoreLearning.git
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
+<<<<<<< HEAD
+      </class> <!-- CollectionsFrameworkPractice.myGitBranch2 -->
+=======
       </class> <!-- CollectionsFrameworkPractice.myGitBranch -->
+>>>>>>> branch 'myBracnh1' of https://github.com/muthuin2020/myEncoreLearning.git
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
