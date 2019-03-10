@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	System.out.println("but i am not");
 	System.out.println("in local");
 	System.out.println("in github");
-	System.out.println("in github");
+
 }
 
 }
