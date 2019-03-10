@@ -1,0 +1,3 @@
+class Muthu{
+int a=10;
+}
